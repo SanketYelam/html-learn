@@ -1,0 +1,27 @@
+.classname{
+    position: relative;
+
+    display: block;
+
+    border: 1px solid #000;
+
+    visibility: hidden;
+
+    overflow: hidden;
+
+    cursor: pointer;
+
+    margin: 6;
+
+    margin: auto;
+
+    margin-top: 22;
+
+    padding: 34;
+
+    background: #000;
+
+    background-color: brown;
+
+    border: 1px solid #000;
+}
